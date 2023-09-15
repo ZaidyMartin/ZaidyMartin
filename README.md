@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Soy Zaidy, economista de profesión. Interesada en la estadística, el análisis de datos y la programación. 
+
+Actualmente trabajo en una compañia del sector asegurador. Hago parte de la dirección administraiva de la empresa, me desempeño como profesional y soy la persona encargada realizar el control y el análisis del presupuesto y los recursos financieros de la empresa. 
+
+Tengo interes en la programación aplicada a la estadística y la ciencia de datos para la toma de decisiones. 
+
+
 <!--
 **ZaidyMartin/ZaidyMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
